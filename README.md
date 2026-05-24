@@ -13,3 +13,5 @@ using search algorithms and heuristic techniques.
 - Applied uninformed and informed search algorithms
 - Optimized solution path using heuristic evaluation
 - Measured performance by number of steps and time taken
+> ⚠️ Note: Source code is not available publicly.
+> This repository documents the project overview and methodology.
